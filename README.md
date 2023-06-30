@@ -10,3 +10,5 @@
   *  api key and app key created
 - ~./.aws/credentials file with profile for each account
 - terraform exe downloaded and put somewhere with PATH set
+
+![WHAT WE ARE BUILDING!](/images/terraform101-public.jpg "What we are building")
