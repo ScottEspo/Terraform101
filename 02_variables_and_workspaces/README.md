@@ -1,3 +1,5 @@
+Still need to update README files for DAY 2 - sorry :)
+
 Here we begin using the same code for both prod and dev envoronments.  We will walk through tw different approaches:
 1. Store the state locally so this is a good way to introduce terraform workspaces.  
 2. Remote backends stored in an S3 bucket in each account
