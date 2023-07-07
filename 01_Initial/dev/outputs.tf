@@ -11,7 +11,7 @@ output "fancy_web_page" {
 
 output "load_balancer_url" {
   description = "URL of Load Balancer"
-  value = aws_lb.tf-demo-lb.dns_name
+  value       = aws_lb.tf-demo-lb.dns_name
 }
 
 output "web_server_instance_id" {
